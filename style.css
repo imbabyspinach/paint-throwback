@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Coda:wght@400;800&family=Kanit:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 * {
   box-sizing: border-box;
@@ -7,7 +7,8 @@
 body {
   margin: 0;
   background-color: rgb(177, 177, 177);
-  font-family: Oswald, sans-serif;
+  font-family: 'Coda', cursive;
+  font-family: 'Kanit', sans-serif;
   overflow: hidden;
 }
 
